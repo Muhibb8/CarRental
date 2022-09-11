@@ -1,0 +1,141 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    width: 100%;
+    font-size: 18px;
+
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+.how{
+    font-size: 30px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+   
+}
+
+.headertext, .headertextabout{
+    font-size: 18px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+
+.headertextabout{
+    margin-left: auto;
+}
+
+.headertwo{
+    display: flex;
+    background-position: fill;
+    font-size: 1.25rem;
+    padding: 20px;
+    gap: 10px;
+    background-color: gray;
+    
+}
+
+.headertext2{
+    padding-left: 800px;
+    font-style: italic;
+    color: white;
+  
+}
+
+
+.famous{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.meme{
+    flex: 1;
+    margin-left: 100px;
+    
+    
+}
+
+.headerthree{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+
+  
+    
+}
+
+.me{
+    margin-left: -20px;
+
+}
+
+.footer{
+    background-color: #1f2937;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    text-align: center;
+}
+
+
+.sign{
+    display: block;
+}
+
+.signup{
+   
+    margin-left: 350px;
+    margin-top: 50px;
+    text-align: center;
+
+   
+    
+}
+
+.button{
+    margin-top: 50px;
+    margin-right: 400px;
+    text-align: center;
+    
+}
+
+.signupcontainer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    background-color: grey;
+
+}
+
+.signup, .button{
+    flex: 1;
+    font-size: 20px;
+    background-color: #3882F6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    min-width: 150px;
+   
+}
+
+
+.preheader{
+    background-color: #1f2937;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    text-align: right;
+    display: flex;
+
+}
+
+    
